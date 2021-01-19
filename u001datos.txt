@@ -1,0 +1,11 @@
+Integrantes:
+Alejandro Aguilera Alcalde
+Pablo Barba Sabín
+
+Mejoras:
+Personalización de los estilos (style, spinners)
+Botón de reset
+Cuenta atrás
+Tecla intro
+Navegación
+Almacenamiento persistente
