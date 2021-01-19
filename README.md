@@ -4,7 +4,7 @@ Juego de preguntas para un teléfono móvil creado con React Native y Redux. Se 
 
 ### Pantalla inicio
 
-![App image](inicio.jpeg)
+![App image](inicio_app.jpeg)
 
 ### Pantalla preguntas
 
